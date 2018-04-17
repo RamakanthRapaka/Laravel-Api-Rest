@@ -1,4 +1,5 @@
 # Laravel-Api-Rest
+System Requirement : PHP 7.2.4, Laravel : 5.5.28
 Step 1 : Clone Project(git clone <url>)
 Step 2 : composer update 
 Step 3 : Change Database Connection .env File
